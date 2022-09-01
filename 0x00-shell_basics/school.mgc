@@ -1,2 +1,2 @@
 #!/bin/bash
-!:mime "SCHOOL" school 0
+ls -a !:mime "SCHOOL" school
